@@ -1,0 +1,18 @@
+1693102666308	geckodriver	INFO	Listening on 127.0.0.1:62000
+1693102669272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\halis\\AppData\\Local\\Temp\\rust_mozprofileSrpTkT"
+1693102669919	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1693102669947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1693102669948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1693102669948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1693102669948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1693102671962	Marionette	INFO	Listening on port 62013
+1693102672438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sampleapp.tricentis.com/101/forms/customization/calculations.js, line 489: ReferenceError: e is not defined
+1693102693634	Marionette	INFO	Stopped listening on port 62013
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
